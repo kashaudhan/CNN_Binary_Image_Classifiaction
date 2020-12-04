@@ -1,5 +1,6 @@
 # Binary Image Classifiaction
 Classifying dogs and cats using Convolutional Neural Network(CNN)
+
 The model implementation is done using Keras library with Python3.
 
 
