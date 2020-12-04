@@ -11,4 +11,4 @@ The model implementation is done using Keras library with Python3.
 ![](model_loss.png)
 
 
-You can get the data set from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
+You can get the dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
